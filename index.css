@@ -13,6 +13,7 @@ body {
 }
 
 #gameWindow{
+    position: relative;
     width: 800;
     height: 592;
     grid-column-start: 2;
